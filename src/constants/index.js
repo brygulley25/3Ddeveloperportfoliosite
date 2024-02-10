@@ -187,7 +187,7 @@ export const projects = [
         link: "https://movie-review-8h71.onrender.com/",
     },
     {
-        iconUrl: "./react admin dash.gif",
+        iconUrl: "./reactadmindash.gif",
         theme: 'btn-back-blue',
         name: "React Admin Dash",
         description: "React Admin Dashboard with real time data coded from scratch.",
